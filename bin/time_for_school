@@ -23,11 +23,7 @@ cillian.last_name = "Wing"
 some_knowledge = avi.teach 
 
 cillian.learn(some_knowledge)
-
-puts "Cillian just learned this important knowledge: '#{cillian.knowledge.first}' from Avi"
-
 steve.learn(some_knowledge)
 
-puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
 
